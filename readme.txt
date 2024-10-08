@@ -1,4 +1,8 @@
-﻿Zapret winws bundle for windows
+For discord run preset_discord.cmd
+this is usual fork with preset for discord
+
+
+Zapret winws bundle for windows
 
 main repository : https://github.com/bol-van/zapret
 
