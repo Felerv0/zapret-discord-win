@@ -1,4 +1,4 @@
-For discord run preset_discord.cmd
+For discord run zapret-winws/preset_discord.cmd
 this is usual fork with preset for discord
 
 
