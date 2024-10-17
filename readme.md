@@ -11,5 +11,9 @@
 
 - **preset_discord_and_websites.bat** - пресет для всего трафика 
 
+- **preset_discord_alt.bat** - (Если не работает основной скрипт) альтернативный пресет для дискорда
+
+- **preset_discord_and_list_alt.bat** - (Если не работает основной скрипт) альтернативный пресет для дискорда, ютуба и доменов из списка.
+
 ##
 main repository : https://github.com/bol-van/zapret
