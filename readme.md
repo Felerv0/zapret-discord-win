@@ -8,4 +8,4 @@
 5) Если не работает, запускаем `reload_lists.cmd`
 
 ##
-Спасибо автору данное [репозитория](https://github.com/bol-van/zapret)
+Спасибо автору [репозитория](https://github.com/bol-van/zapret)
