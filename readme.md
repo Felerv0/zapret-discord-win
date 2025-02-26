@@ -1,5 +1,5 @@
 ﻿Порядок действий:
-1) [Скачать](https://github.com/Felerv0/zapret-discord-win/releases) последний релиз
+1) [Скачать](http://github.com/Felerv0/zapret-discord-win/archive/refs/heads/develop.zip) последний релиз
 2) Разархивировать в папку, в пути и названии которой нет кириллицы и пробелов
 3) Запускаем:
 - `preset_russia.cmd` - интерактивный запуск наиболее распространенной стратегии для России (для добавления/удаления URL-адресов редактировать `list-youtube.txt`)
